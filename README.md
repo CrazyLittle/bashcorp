@@ -1,8 +1,9 @@
 # Bash Corp: A Company of Fools
 Bash Corp is a modpack built to add tension and fun to the otherwise "normal" Lethal Company game loop.  New moons, new scrap, and a few creature comforts were added to spice things up.  Watch this pack in action on twitch during live streams at:
 
-https://www.twitch.tv/zerobash_
-https://www.twitch.tv/crazylttle
+[https://www.twitch.tv/zerobash_](https://www.twitch.tv/zerobash_)
+
+[https://www.twitch.tv/crazylttle](https://www.twitch.tv/crazylttle)
 
 ## Use & Installation
 Please start a new Thunderstore mod profile when installing this mod pack.  Do not update/upgrade mods as it will put you out of sync with the streamer.
