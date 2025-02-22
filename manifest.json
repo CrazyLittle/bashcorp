@@ -4,7 +4,7 @@
   "website_url": "https://github.com/CrazyLittle/bashcorp",
   "description": "Bash Corp. A company of fools.",
   "dependencies": [
-	#-CustomStoryLogs-1.4.6",
+	"-CustomStoryLogs-1.4.6",
 	"Lega-LightEater-1.0.2",
 	"Piggy-LC_Office-1.2.7",
 	"8BitAnt-Ants_Scrap-1.1.8",
