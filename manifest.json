@@ -1,6 +1,6 @@
  {
-  "name": "Bash Corp",
-  "version_number": "69.69.001",
+  "name": "BashCorp",
+  "version_number": "69.69.1",
   "website_url": "https://github.com/CrazyLittle/bashcorp",
   "description": "Bash Corp. A company of fools.",
   "dependencies": [
