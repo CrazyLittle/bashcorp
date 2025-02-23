@@ -9,5 +9,7 @@ Bash Corp is a modpack built to add tension and fun to the otherwise "normal" Le
 Please start a new Thunderstore mod profile when installing this mod pack.  Do not update/upgrade mods as it will put you out of sync with the streamer.
 
 ## What's New?
-- Version 69.69.001: Initial upload to Thunderstore as a mod Pack.
+- Version 69.69.3: Config updates to reflect past streams, unlocked ship windows, emotes, reweighted some loot spawns.
+- Version 69.69.2: Typos, minor bug fixes
+- Version 69.69.1: Initial upload to Thunderstore as a mod Pack.
 
